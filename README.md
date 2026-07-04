@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hey there! 👋 I'm Kanhaiya</h1>
 
-<!--
-**Kanhaiya0-0/Kanhaiya0-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Currently+Learning+Java;Building+Projects+from+Scratch;Learning+by+Building+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+🌱 Currently learning <b>Java</b><br>
+💻 Building projects from scratch<br>
+🚀 Documenting my coding journey on GitHub
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📚 Current Focus
+- ☕ Java
+- 🧠 Object-Oriented Programming
+- 🌿 Git & GitHub
+
+---
+
+> *"Code. Learn. Build. Repeat."*
