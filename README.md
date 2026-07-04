@@ -19,4 +19,4 @@
 
 ---
 
-> *"Code. Learn. Build. Repeat."*
+> *"That's it, now go Touch grass "*
